@@ -30,17 +30,12 @@ Please delete options that are not relevant.
 
 ## Store Procedues
 
-- store_procedure1
-- store_procedure2
-
+- storeprocedure1
+- storeprocedure2
 
 ### Approval on store procedures (Please delete this if not relevant)
 
 - [ ] I have made changes to SP and have an approval for it. 
-
-## How Has This Been Tested?
-
-_Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration_
 
 ## Did you test this issue fix on all browsers?
 
@@ -56,9 +51,8 @@ _Please describe the tests that you ran to verify your changes. Provide instruct
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have checked the functionality locally
-- [ ] I have checked the functionality locally on 10.5.1.45 server
+- [ ] I have checked the functionality locally on intenral QA server
 - [ ] New and existing functionality working fine locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] I have checked my code and corrected any misspellings
 
 ## Screenshot (if applicable): 
